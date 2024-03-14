@@ -1,0 +1,27 @@
+/* aboutUs.css */
+
+.about-us-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #f8f8f8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+p {
+    line-height: 1.8;
+    color: #555;
+}
+
+/* Optional: Add hover effect for a subtle interaction */
+.about-us-container:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3s ease-in-out;
+}
