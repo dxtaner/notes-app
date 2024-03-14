@@ -1,0 +1,46 @@
+/* Footer.css */
+
+.app-footer {
+    background: linear-gradient(to bottom right, #06e8d1, #fe8e6c);
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+.social-links a {
+    color: #fff;
+    margin: 0 10px;
+    text-decoration: none;
+    font-size: 20px;
+    transition: color 0.3s ease-in-out;
+}
+
+.social-links a:hover {
+    color: #00152c;
+}
+
+.app-footer p {
+    margin: 10px 0;
+}
+
+.app-footer a {
+    color: #001021;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s ease-in-out;
+}
+
+.app-footer a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.github-link {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.github-link:hover {
+    text-decoration: underline;
+}
