@@ -1,0 +1,15 @@
+/* Header.css */
+header {
+    background: linear-gradient(to bottom right, #06e8d1, #fe8e6c);
+    color: white;
+    padding: 10px;
+}
+
+.app-name-container {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    margin: 0;
+}
